@@ -1,0 +1,2 @@
+# NamedPipe-examples
+NamedPipe examples
